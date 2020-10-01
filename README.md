@@ -4,7 +4,7 @@ This RCE Payload/Backdoor Shell is made to bypass WAF 403 errors. This is also u
 
 ## Pastebin Links
 [bloo.php](https://pastebin.com/raw/dYB6V61V) |
-[bloopassthru.php](https://pastebin.com/raw/qjF1ECwj)
+[bloopassthru.php](https://pastebin.com/raw/TnRgzxhn)
 
 ## Usage
 
